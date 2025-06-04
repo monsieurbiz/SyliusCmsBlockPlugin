@@ -23,3 +23,7 @@ monsieurbiz_cms_block:
     block:
       title: 'Lame Bloc'
       description: 'Une lame contenant un bloc CMS'
+sylius_plus:
+    rbac:
+        parent:
+            blocks: 'Blocs'

@@ -23,3 +23,7 @@ monsieurbiz_cms_block:
     block:
       title: 'Block Element'
       description: 'An element containing a CMS block'
+sylius_plus:
+    rbac:
+        parent:
+            blocks: 'Blocks'

@@ -3,6 +3,7 @@ monsieurbiz_sylius_cms_block_admin:
     resource: |
         alias: monsieurbiz_cms_block.block
         section: admin
+        permission: true
         templates: "@SyliusAdmin\\Crud"
         except: ['show']
         redirect: update
