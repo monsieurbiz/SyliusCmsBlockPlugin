@@ -1,0 +1,25 @@
+monsieurbiz_cms_block:
+  ui:
+    blocks: "Blöcke"
+    block: "Block"
+    new_block: "Neuer Block"
+    edit_block: "Block bearbeiten"
+    cms_content: "CMS"
+    blocks_subheader: "Verwaltung der CMS-Blöcke"
+    back_to_admin: "Zurück zur Administration"
+    block_not_found: 'Block "%name%" nicht gefunden.'
+    edit_block_link: 'Block «%blockName%» bearbeiten'
+    form:
+      id: 'ID'
+      block_info: 'Blockinformationen'
+      block_content: 'Blockinhalt'
+      enabled: "Aktiviert"
+      name: "Name"
+      code: "Code"
+      content: "Inhalt"
+    actions:
+      create: 'Neuen Block erstellen'
+  ui_element:
+    block:
+      title: 'Block'
+      description: 'Ein Element, das einen CMS-Block enthält'
